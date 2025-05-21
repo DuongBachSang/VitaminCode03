@@ -1,13 +1,6 @@
 import java.util.Scanner;
 
 public class Main {
-<<<<<<< HEAD
-    public static void main (String [] args){
-        System.out.println("Hello Vitamin Code 03");
-        System.out.println("Hello Admin");
-    }
-}
-=======
     static Scanner sc = new Scanner(System.in);
     public static void main (String [] args){
         System.out.println("Hello Vitamin Code 03");
@@ -33,5 +26,3 @@ public class Main {
 }
 // Trước khi push thì pull nhánh chính
 // Trước khi check out thì pull nhánh chính
-
->>>>>>> 21997e5ac4d2097f0d2567efeb972831b318d4ec
