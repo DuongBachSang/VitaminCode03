@@ -21,6 +21,7 @@ public class Main {
             System.out.println("Không thể chia A cho số 0");
         } else {
             System.out.println("a / b = "+(float)a/b);
+            System.out.println("chia thanh cong");
         }
     }
 }
